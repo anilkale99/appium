@@ -8,7 +8,7 @@ import basic.myproject.pageobjects.web.MainPage;
 public class MainPageActions {
 	
 	
-		public static void clickClose(WebDriver driver) {
+		public static void closeMainPage(WebDriver driver) {
 			MainPage.closeButton(driver).click();
 		}
 
