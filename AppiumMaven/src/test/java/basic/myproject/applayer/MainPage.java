@@ -1,4 +1,4 @@
-package myproject.applayer;
+package basic.myproject.applayer;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
