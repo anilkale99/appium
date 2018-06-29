@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basic.AndroidEmulatorTest">
+      <class name="basic.myproject.tests.BasicLaunchTestMM">
         <methods>
           <include name="test"/>
           <include name="setup1"/>
         </methods>
-      </class> <!-- basic.AndroidEmulatorTest -->
+      </class> <!-- basic.myproject.tests.BasicLaunchTestMM -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
